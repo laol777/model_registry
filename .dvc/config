@@ -1,0 +1,4 @@
+[core]
+    remote = base
+['remote "base"']
+    url = gs://tmp-rosebud
