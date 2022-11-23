@@ -11,4 +11,5 @@ bash
 python
 ```
 python get_model.py
+python get_model2.py
 ```
